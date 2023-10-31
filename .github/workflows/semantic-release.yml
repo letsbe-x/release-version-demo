@@ -4,6 +4,8 @@
 name: letsbe-semantic-release
 
 on:
+  workflow_dispatch:
+
   push:
     paths-ignore:
       - 'README.md'
