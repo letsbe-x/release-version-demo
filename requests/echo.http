@@ -1,2 +1,2 @@
 ###
-GET http://localhost:8080/echo
+GET http://localhost:8080/echo?hello=안녕
