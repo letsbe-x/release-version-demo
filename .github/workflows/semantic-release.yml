@@ -17,6 +17,7 @@ on:
       - 'node_modules/**'
       - '.github/**'
     branches: [
+      'main',
       'develop'
     ]
 
